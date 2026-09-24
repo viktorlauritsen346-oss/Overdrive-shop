@@ -1,0 +1,10 @@
+{
+  "name": "bot-overdrive",
+  "version": "1.0.0",
+  "description": "Starter project for Bot Overdrive",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "MIT"
+}
